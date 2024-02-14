@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media.licdn.com/dms/image/D5616AQHROaKd5gkixg/profile-displaybackgroundimage-shrink_350_1400/0/1706683130736?e=1713398400&v=beta&t=mO_w7PhtAQLQkfAKC-kTM_R9mWDvL5ycMnbTbtYS9KU)
+
 My name **Rofik Adam Nugraha**.<br>
 I am a student at Stimik Amik.<br>
 and I am interested in studying Informatics Engineering, and I am trying to learn everything that can be learned.<br>
@@ -9,6 +11,6 @@ I'm Game Developer and Mobile Development enthusiast
 - 📖 on free time i like to read something which I think can add to my insight
 
   
-![](https://media.licdn.com/dms/image/D5616AQHROaKd5gkixg/profile-displaybackgroundimage-shrink_350_1400/0/1706683130736?e=1713398400&v=beta&t=mO_w7PhtAQLQkfAKC-kTM_R9mWDvL5ycMnbTbtYS9KU)
+
 
 You can see my portofolio on my [LinkedIn](https://www.linkedin.com/in/rofik-adam-nugraha-a65202222/).<br>
