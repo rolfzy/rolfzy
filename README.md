@@ -10,7 +10,12 @@ I'm Game Developer and Mobile Development enthusiast
 - 📕 i'm Bangkit Cohort Mobile Developer batch 1 2024
 - 📖 on free time i like to read something which I think can add to my insight
 
-  
+  <p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 
  You can see my portofolio on my [LinkedIn](https://www.linkedin.com/in/rofik-adam-nugraha-a65202222/).<br>
