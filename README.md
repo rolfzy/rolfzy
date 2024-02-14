@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]([https://media.licdn.com/dms/image/D5616AQHROaKd5gkixg/profile-displaybackgroundimage-shrink_350_1400/0/1706683130736?e=1713398400&v=beta&t=mO_w7PhtAQLQkfAKC-kTM_R9mWDvL5ycMnbTbtYS9KU](https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif))
+![](https://i.pinimg.com/originals/d0/b5/d7/d0b5d7751b2cde2c387bb376b94146a3.gif)
 
 My name **Rofik Adam Nugraha**.<br>
 I am a student at Stimik Amik.<br>
