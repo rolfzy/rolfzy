@@ -19,4 +19,4 @@ I'm Game Developer and Mobile Development enthusiast
 </p>
 -->
 
- You can see my portofolio on my [LinkedIn](https://www.linkedin.com/in/rofik-adam-nugraha-a65202222/).<br>
+ You can see my portofolio on my [LinkedIn](https://www.linkedin.com/in/rofikadamnugraha/).<br>
