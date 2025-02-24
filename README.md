@@ -5,7 +5,7 @@
 My name **Rofik Adam Nugraha**.<br>
 I am a student at Stimik Amik.<br>
 and I am interested in studying Informatics Engineering, and I am trying to learn everything that can be learned.<br>
-I'm Game Developer and Mobile Development enthusiast
+I'm Mobile Development Developer and Game enthusiast
 - 🌱 I’m currently learning Everthing i can learn
 - 📕 Keep Learning
 - 📖 on free time i like to read something which I think can add to my insight
